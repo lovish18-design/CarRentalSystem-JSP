@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rentals>
+<rental><carId>9</carId><customerName>Adasullah</customerName><days>3</days><totalRent>270.0</totalRent></rental><rental><carId>8</carId><customerName>adnan</customerName><days>1</days><totalRent>105.0</totalRent></rental><rental><carId>1</carId><customerName>Tahseen</customerName><days>3</days><totalRent>150.0</totalRent></rental></rentals>
